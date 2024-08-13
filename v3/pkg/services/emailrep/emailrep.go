@@ -16,10 +16,12 @@ import (
 )
 
 type Emailrep struct {
-	Response EmailRepResponse
+periyakulandai@gmail.com
+	
 }
 
-type EmailRepResponse struct {
+type EmailRepResponse struct {periyakulandai@gmail.com
+			      
 	Email      string `json:"email"`
 	Reputation string `json:"reputation"`
 	Suspicious bool   `json:"suspicious"`
